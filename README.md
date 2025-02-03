@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,44 +12,45 @@
      <div class="logo-box">
       <img class="logo" src="images/z-wwr-blue.jpg" >
         <nav class="navbar">
-        <a href ="#" > | HOME | </a>
-        <a href = "#"> | ABOUT US | </a>
-        <a href ="#" > | TRIPS | </a>
-        <a href ="#" > | CONTACT US | </a>
+        <a href ="list" > | HOME | </a>
+        <a href = "list"> | ABOUT US | </a>
+        <a href ="list" > | TRIPS | </a>
+        <a href ="list" > | CONTACT US | </a>
         </nav>
-      </main>
+<div id="my_cover">
+  <img class=my_cover src="images/fall-upper-gauley.jpg">
+</div>
 
-      <div id="burner">
-            <img class=my_cover src="images/fall-upper-gauley.jpg">
-            <h>NEED THE BEST ADVENTURE </h>
-            We got you covered, book with us.
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. In velit ullam 
-            dolorum nemo voluptatem vero perspiciatis blanditiis soluta quas iste. Repellat dolorum atque vero maxime,
-            expedita quos nisi? Eos, nemo?
-    
-      </div>
+<div id="text">THE BEST ADVENTURE
+ We got you covered, book with us.
+ Lorem ipsum dolor, sit amet consectetur adipisicing elit. In velit ullam 
+ dolorum nemo voluptatem vero perspiciatis blanditiis soluta quas iste. Repellat dolorum atque vero maxime,
+ expedita quos nisi? Eos, nemo?
+ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam tenetur hic unde sapiente expedita 
+ blanditiis animi incidunt omnis assumenda voluptatum nisi vel amet vitae accusantium quos, facere excepturi quo ipsum.
+</div>
 
-      <div class="container">
-        <div class="box" id="box1">
-        <img src="images/new-river-gorge-rapid-run.jpg" alt="TRIPS image desc" width="250/200">
-        <h2>TRIP 1</h2>
-        <P>Don't miss the fun, be part of the it </P>
-      </div>
+<div class="container">
+  <div class="box" id="box1">
+    <img src="images/new-river-gorge-rapid-run.jpg" alt="TRIPS image desc" width="250/200">
+     <h2>TRIP 1</h2>
+      <P>Don't miss the fun, be part of the it </P>
+    </div>
 
-        <div class="box" id="box2">
-        <img src="images/new-river.jpg" alt="TRIPS image desc" width="250/200">
-        <h2>TRIP 2</h2>
-        <P>Don't miss the fun,feel it </P>
-        </div>
+<div class="box" id="box2">
+  <img src="images/new-river.jpg" alt="TRIPS image desc" width="250/200">
+  <h2>TRIP 2</h2>
+    <P>Don't miss the fun,feel it </P>
+    </div>
 
-        <div class="box" id="box3">
-        <img src="images/gettyimages.jpg" alt="TRIPS image desc" width="250/200">
-        <h2>TRIP 3</h2>
-        <P>Don't miss the fun, experience it </P>
+<div class="box" id="box3">
+  <img src="images/gettyimages.jpg" alt="TRIPS image desc" width="250/200">
+    <h2>TRIP 3</h2>
+      <P>Don't miss the fun, experience it </P>
       </div>
     </header>
-  <footer>
+    </body>
+<footer>
     <p> | &copy;2025 | EDWARD M. SIMMY. | NAIROBI KENYA. | WHITE WATER RAFTING .| Email:simmyedward4@gmial.com | </p>
  </footer>   
-</body>
 </html>
