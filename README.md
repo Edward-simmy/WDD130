@@ -10,7 +10,6 @@
     <header>
      <div class="logo-box">
       <img class="logo" src="images/z-wwr-blue.jpg" >
-
         <nav class="navbar">
         <li></li><a href = "About.html"> | ABOUT US | </a></li>
         <li></li><a href ="Contact us.html" > | CONTACT US | </a></li>
@@ -52,6 +51,10 @@
     <p> | &copy;2025 | EDWARD M. SIMMY. | NAIROBI KENYA. | WHITE WATER RAFTING .| Email:simmyedward4@gmial.com | </p>
  </footer>   
 </html>
+
+
+
+
 
 
 <!DOCTYPE HTML>
