@@ -5,17 +5,15 @@
     <link rel="stylesheet" href ="styles.css">
     <link rel="https// Exported Palette - https://coolors.co/ffffff-a48e8e-413939-8d7c84-1c211f">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> WATER RAFTING </title>
 </head>
 <body>
     <header>
      <div class="logo-box">
       <img class="logo" src="images/z-wwr-blue.jpg" >
+
         <nav class="navbar">
-        <a href ="list" > | HOME | </a>
-        <a href = "list"> | ABOUT US | </a>
-        <a href ="list" > | TRIPS | </a>
-        <a href ="list" > | CONTACT US | </a>
+        <li></li><a href = "About.html"> | ABOUT US | </a></li>
+        <li></li><a href ="Contact us.html" > | CONTACT US | </a></li>
         </nav>
 <div id="my_cover">
   <img class=my_cover src="images/fall-upper-gauley.jpg">
